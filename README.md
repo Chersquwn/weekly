@@ -16,6 +16,8 @@
 
 - [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
 
+- [你真的理解setState吗？](https://juejin.im/post/5b45c57c51882519790c7441)
+
 ## ECMAScript 和 JavaScript
 
 - [【译】ES10功能完全指南](https://juejin.im/post/5c7c8e125188256365101c34)
