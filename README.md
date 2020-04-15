@@ -83,6 +83,12 @@
 
 - [HTTP/3详解](https://http3-explained.haxx.se/zh/)
 
+## 安全
+
+- [前端安全系列（一）：如何防止XSS攻击？](https://segmentfault.com/a/1190000016551188)
+
+- [前端安全系列之二：如何防止CSRF攻击？](https://segmentfault.com/a/1190000016659945)
+
 ## 团队经验
 
 - [技术栈：为什么 Node 是前端团队的核心技术栈](https://mp.weixin.qq.com/s/jUEwvTapOjGx60ljPjplgA)
