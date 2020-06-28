@@ -24,6 +24,10 @@
 
 - [最后一次搞懂 Event Loop](https://juejin.im/post/5cbc0a9cf265da03b11f3505)
 
+## Webpack
+
+- [WebPack 插件机制探索](https://blog.didiyun.com/index.php/2019/03/01/webpack/)
+
 ## 浏览器
 
 - [[译] 写给大家看的 Cache-Control 指令配置](https://github.com/xitu/gold-miner/blob/master/TODO1/cache-control-for-civilians.md)
@@ -65,6 +69,10 @@
 ## 算法
 
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
+- [如何使用深度学习识别 UI 界面组件？](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650407686&idx=1&sn=a9a3985876fba6ead66f66bd88887ac5&chksm=8396cb1eb4e14208e799167baba78f9c71d268eaf527875d3b3ddfc2acd0b42085b7e12ca7d2&scene=27#wechat_redirect)
+
+- [分分钟学会前端sku算法（商品多规格选择）](https://juejin.im/post/5eef2fcee51d4574113a0203)
 
 
 ## A/B Test
